@@ -1,1 +1,6 @@
 #webhook trriger problem is solved..
+webhook steps for build trriger
+first "run ngrok http 8080"
+second "copy link and paste into the google chrome"
+third "copy link url and paste into the webhook url"
+fourth "click on link visit site which is ngrok link and login jenkins"
