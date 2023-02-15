@@ -5,3 +5,4 @@ sudo chmod 700 test-for-jenkins
 #ok
 #3-feb
 #4-feb--
+#15 feb changes for testing ci jenkins
